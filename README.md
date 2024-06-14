@@ -10,7 +10,7 @@
 . Create a Grid View dashboard displaying a table of all call details in Power BI.
 . This should allow a user to export the grid for various filters applied.
 
-**WHAT WE HAVE DONE IN THIS POWER BI PROJECT**
+**WHAT I HAVE DONE IN THIS POWER BI PROJECT**
 Connecting to SQL Server,
 Data Cleaning,
 Data Modelling,
