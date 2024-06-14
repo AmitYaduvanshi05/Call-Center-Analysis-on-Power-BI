@@ -11,23 +11,23 @@
 . This should allow a user to export the grid for various filters applied.
 
 **WHAT WE HAVE DONE IN THIS POWER BI PROJECT**
-Connecting to SQL Server
-Data Cleaning
-Data Modelling
-Data Processing
-Power Query
-Date Tables
-Time Intelligence Func
-DAX
-Date Function
-Custome Charts
-Text Function
-Filter Function
-Calculate 
-SUM/SUMX
-Creating KPI's
-New Card Visual
-Creating Charts
-Formatting visuals
-Creating Functions
-Navigations.
+Connecting to SQL Server,
+Data Cleaning,
+Data Modelling,
+Data Processing,
+Power Query,
+Date Tables,
+Time Intelli,gence Func,
+DAX,
+Date Function,
+Custome Charts,
+Text Function,
+Filter Function,
+Calculate,
+SUM/SUMX,
+Creating KPI's,
+New Card Visual,
+Creating Charts,
+Formatting visuals,
+Creating Functions,
+Navigations,
